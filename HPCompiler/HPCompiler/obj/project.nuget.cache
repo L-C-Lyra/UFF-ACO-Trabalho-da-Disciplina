@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxMNw33ofYc=",
+  "success": true,
+  "projectFilePath": "/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/HPCompiler.csproj",
+  "expectedPackageFiles": [
+    "/home/flaffy/.nuget/packages/microsoft.dotnet.ilcompiler/10.0.6/microsoft.dotnet.ilcompiler.10.0.6.nupkg.sha512",
+    "/home/flaffy/.nuget/packages/microsoft.net.illink.tasks/10.0.6/microsoft.net.illink.tasks.10.0.6.nupkg.sha512",
+    "/home/flaffy/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/10.0.6/runtime.linux-x64.microsoft.dotnet.ilcompiler.10.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

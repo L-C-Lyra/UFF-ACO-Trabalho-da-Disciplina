@@ -1,0 +1,14 @@
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/bin/Debug/net10.0/HPCompiler
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/bin/Debug/net10.0/HPCompiler.deps.json
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/bin/Debug/net10.0/HPCompiler.runtimeconfig.json
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/bin/Debug/net10.0/HPCompiler.dll
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/bin/Debug/net10.0/HPCompiler.pdb
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/HPCompiler.GeneratedMSBuildEditorConfig.editorconfig
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/HPCompiler.AssemblyInfoInputs.cache
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/HPCompiler.AssemblyInfo.cs
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/HPCompiler.csproj.CoreCompileInputs.cache
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/HPCompiler.dll
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/refint/HPCompiler.dll
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/HPCompiler.pdb
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/HPCompiler.genruntimeconfig.cache
+/home/flaffy/Documentos/Projetos/c#/HPCompiler/HPCompiler/obj/Debug/net10.0/ref/HPCompiler.dll

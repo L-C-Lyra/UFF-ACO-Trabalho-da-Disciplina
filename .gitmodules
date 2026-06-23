@@ -1,0 +1,3 @@
+[submodule "MicroSim"]
+	path = MicroSim
+	url = https://github.com/tailsfanfurrydev/MicroSim.git
